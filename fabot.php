@@ -2,6 +2,7 @@
     require "/twitteroauth/autoload.php";
     use Abraham\TwitterOAuth\TwitterOAuth;
 
+    //key
     $consumerKey = "";
     $consumerSecret = "";
     $accessToken = "";
